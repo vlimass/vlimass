@@ -1,12 +1,12 @@
 ## Hi, I'm Viny 👋
 
-- 📚 Computer Science student at <a href="https://ufrj.br/" target="_blank">UFRJ</a>. 
+- 📚 Computer Science student at <a href="https://ufrj.br/" target="blank">UFRJ</a>. 
 - 🚀 Currently styding web & mobile front-end development. 
 - ⚙️ Focused on JavaScript, TypeScript, ReactJS and React Native. 
 - 🎨 Also interested in UX/UI Design.
 
-<a href="https://www.linkedin.com/in/vin%C3%ADcius-lima-532302239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:villylss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-lima-532302239/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:villylss@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://github.com/vlimass"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <hr>
