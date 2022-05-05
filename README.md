@@ -1,6 +1,6 @@
 ## Hi, I'm Viny 👋
 
-- 📚 Computer Science student at [UFRJ](https://ufrj.br/). 
+- 📚 Computer Science student at <a href="https://ufrj.br/" target="_blank">UFRJ</a>. 
 - 🚀 Currently styding web & mobile front-end development. 
 - ⚙️ Focused on JavaScript, TypeScript, ReactJS and React Native. 
 - 🎨 Also interested in UX/UI Design.
