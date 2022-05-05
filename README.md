@@ -18,6 +18,7 @@
 </div>
   
 <hr>
+  
 <div align="center"><br>
   <img align="center" alt="HTML icon" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS icon" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
