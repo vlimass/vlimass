@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi, I'm Viny 👋
 
-<!--
-**vlimass/vlimass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Computer Science student at [UFRJ](https://ufrj.br/). 
+- 🚀 Currently styding web & mobile front-end development. 
+- ⚙️ Focused on JavaScript, TypeScript, ReactJS and React Native. 
+- 🎨 Also interested in UX/UI Design.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-lima-532302239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:villylss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://github.com/vlimass"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<div align="center">
+  <a href="https://github.com/vlimass">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=vlimass&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlimass&layout=compact&langs_count=7&theme=calm"/>
+</div>
+  
+<hr>
+
+<div align="center"><br>
+  <img align="center" alt="HTML icon" height="50" width="66.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS icon" height="50" width="66.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js icon" height="50" width="66.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts icon" height="50" width="66.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React icon" height="50" width="66.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
