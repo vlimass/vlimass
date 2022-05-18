@@ -2,7 +2,6 @@
 
 - 📚 Computer Science student at <a href="https://ufrj.br/" target="blank">UFRJ</a>. 
 - 👨‍💻 Front-end Developer at <a href="https://ejcm.com.br/">EJCM Consultoria</a>.
-- 🚀 Currently studying web & mobile front-end development. 
 - ⚙️ Focused on JavaScript, TypeScript, ReactJS and React Native. 
 - 🎨 Also interested in UX/UI Design.
 
