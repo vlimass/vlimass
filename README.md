@@ -2,7 +2,7 @@
 
 - 👨‍💻 Software Engineer  
 - 📚 Computer Science student at <a href="https://ufrj.br/" target="blank">UFRJ</a>. 
-- ⚙️ Focused on JavaScript, TypeScript, ReactJS and React Native. 
+- ⚙️ Focused on TypeScript, JavaScript, ReactJS, Node.js and React Native. 
 - 🎨 Also interested in UX/UI Design.
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-lima-532302239/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
